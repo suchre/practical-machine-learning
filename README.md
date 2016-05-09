@@ -27,11 +27,3 @@ less than 5. It will make it easier for the graders to submit a repo with a gh-p
 
 **Tool:** [XGBoost](https://github.com/dmlc/xgboost), an implementation of tree-based extreme gradient boosting algorithm. A very fast and accurate method to do cross validation, fitting and predicting.   
 
-## HTML report page (gh-pages) ##
-
-Please open [this GitHub link](http://flyingdisc.github.io/practical-machine-learning/).  
-
-The HTML file is in the `gh-pages` branch.    
-The R markdown file (Rmd) is in the `master` branch.     
-
-----------
